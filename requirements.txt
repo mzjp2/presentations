@@ -3,3 +3,4 @@ zarr==2.4.0
 dask==2.11.0
 jupyter==1.0.0
 ipytree==0.1.5
+bokeh==1.4.0
